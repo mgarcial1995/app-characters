@@ -1,0 +1,10 @@
+node_modules/
+
+.env
+.serverless/
+.aws/
+dist/
+build/
+package-lock.json
+dist/
+coverage/
